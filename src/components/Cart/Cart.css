@@ -1,0 +1,12 @@
+
+.cart-bottle{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid black;
+
+}
+
+.cart-bottle img {
+    width: 100px;
+    margin: 10px;
+}
